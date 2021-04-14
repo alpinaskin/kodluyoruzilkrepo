@@ -7,3 +7,14 @@ Kodluyoruz Front-End kapsamında oluşturduğmu ilk repo. İçinde bir adet READ
 git clone https://github.com/alpinaskin/kodluyoruzilkrepo.git
 
 ```
+
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+cd kodluyoruzilkrepo
+code .
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
